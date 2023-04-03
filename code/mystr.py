@@ -1,0 +1,2 @@
+s = 'pyhton'
+print(s[:])
